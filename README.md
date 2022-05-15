@@ -10,7 +10,7 @@ This library only works with the Haxe cpp target.
 ---
 
 ## Install
-`haxelib git discord_rpc https://github.com/Aidan63/linc_discord-rpc`
+`haxelib git discord_rpc https://github.com/MasterOminousDev/linc_discord-rpc`
 
 ## Example Usage
 
